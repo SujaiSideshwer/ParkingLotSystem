@@ -6,14 +6,14 @@ A Java-based parking lot management system built as an object-oriented design ex
 
 ## Table of Contents
 
-1. [Overview] (#overview)
-2. [Project Structure] (#project-structure)
-3. [Class Design] (#class-design)
-4. [Design Patterns] (#design-patterns)
-5. [How It Works] (#how-it-works)
-6. [Concurrency & Thread Safety] (#concurrency--thread-safety)
-7. [Testing] (#testing)
-8. [Getting Started] (#getting-started)
+1. [Overview](#overview)
+2. [Project Structure](#project-structure)
+3. [Class Design](#class-design)
+4. [Design Patterns](#design-patterns)
+5. [How It Works](#how-it-works)
+6. [Concurrency & Thread Safety](#concurrency--thread-safety)
+7. [Testing](#testing)
+8. [Getting Started](#getting-started)
 
 ---
 
