@@ -8,10 +8,10 @@ A Java-based parking lot management system built as an object-oriented design ex
 
 - [Overview] (#overview)
 - [Project Structure] (#project-structure)
-- [Class Design] (@class-design)
-- [Design Patterns] (@design-patterns)
+- [Class Design] (#class-design)
+- [Design Patterns] (#design-patterns)
 - [How It Works] (#how-it-works)
-- [Concurrency & Thread Safety] (@concurrency--thread-safety)
+- [Concurrency & Thread Safety] (#concurrency--thread-safety)
 - [Testing] (#testing)
 - [Getting Started] (#getting-started)
 
